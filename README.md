@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/DebanjanTest/leetcode-Prac/tree/master/0231-power-of-two) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/DebanjanTest/leetcode-Prac/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## String
 |  |
@@ -32,5 +33,10 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/DebanjanTest/leetcode-Prac/tree/master/0231-power-of-two) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/DebanjanTest/leetcode-Prac/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/DebanjanTest/leetcode-Prac/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
