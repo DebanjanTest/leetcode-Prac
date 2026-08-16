@@ -20,12 +20,14 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/DebanjanTest/leetcode-Prac/tree/master/0001-two-sum) |
 | [2029-stone-game-ix](https://github.com/DebanjanTest/leetcode-Prac/tree/master/2029-stone-game-ix) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DebanjanTest/leetcode-Prac/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/DebanjanTest/leetcode-Prac/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/DebanjanTest/leetcode-Prac/tree/master/0001-two-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DebanjanTest/leetcode-Prac/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/DebanjanTest/leetcode-Prac/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
