@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/DebanjanTest/leetcode-Prac/tree/master/0231-power-of-two) |
+| [2029-stone-game-ix](https://github.com/DebanjanTest/leetcode-Prac/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/DebanjanTest/leetcode-Prac/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## String
 |  |
@@ -14,10 +15,12 @@
 ## Greedy
 |  |
 | ------- |
+| [2029-stone-game-ix](https://github.com/DebanjanTest/leetcode-Prac/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/DebanjanTest/leetcode-Prac/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Array
 |  |
 | ------- |
+| [2029-stone-game-ix](https://github.com/DebanjanTest/leetcode-Prac/tree/master/2029-stone-game-ix) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DebanjanTest/leetcode-Prac/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/DebanjanTest/leetcode-Prac/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Hash Table
@@ -39,4 +42,24 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/DebanjanTest/leetcode-Prac/tree/master/0231-power-of-two) |
+## Minimax
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/DebanjanTest/leetcode-Prac/tree/master/2029-stone-game-ix) |
+## Counting
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/DebanjanTest/leetcode-Prac/tree/master/2029-stone-game-ix) |
+## Game Theory
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/DebanjanTest/leetcode-Prac/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/DebanjanTest/leetcode-Prac/tree/master/2029-stone-game-ix) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/DebanjanTest/leetcode-Prac/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
