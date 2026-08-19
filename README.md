@@ -16,12 +16,14 @@
 ## Greedy
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/DebanjanTest/leetcode-Prac/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/DebanjanTest/leetcode-Prac/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/DebanjanTest/leetcode-Prac/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/DebanjanTest/leetcode-Prac/tree/master/0001-two-sum) |
+| [1386-cinema-seat-allocation](https://github.com/DebanjanTest/leetcode-Prac/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/DebanjanTest/leetcode-Prac/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/DebanjanTest/leetcode-Prac/tree/master/2029-stone-game-ix) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DebanjanTest/leetcode-Prac/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -31,6 +33,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/DebanjanTest/leetcode-Prac/tree/master/0001-two-sum) |
+| [1386-cinema-seat-allocation](https://github.com/DebanjanTest/leetcode-Prac/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DebanjanTest/leetcode-Prac/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/DebanjanTest/leetcode-Prac/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/DebanjanTest/leetcode-Prac/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -43,6 +46,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/DebanjanTest/leetcode-Prac/tree/master/0231-power-of-two) |
+| [1386-cinema-seat-allocation](https://github.com/DebanjanTest/leetcode-Prac/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/DebanjanTest/leetcode-Prac/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Recursion
 |  |
