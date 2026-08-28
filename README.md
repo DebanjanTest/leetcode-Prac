@@ -20,6 +20,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/DebanjanTest/leetcode-Prac/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/DebanjanTest/leetcode-Prac/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/DebanjanTest/leetcode-Prac/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/DebanjanTest/leetcode-Prac/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Greedy
 |  |
 | ------- |
@@ -124,4 +125,9 @@
 |  |
 | ------- |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/DebanjanTest/leetcode-Prac/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/DebanjanTest/leetcode-Prac/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+## Two Pointers
+|  |
+| ------- |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/DebanjanTest/leetcode-Prac/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 <!---LeetCode Topics End-->
