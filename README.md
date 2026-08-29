@@ -37,6 +37,7 @@
 | [1563-stone-game-v](https://github.com/DebanjanTest/leetcode-Prac/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/DebanjanTest/leetcode-Prac/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/DebanjanTest/leetcode-Prac/tree/master/2029-stone-game-ix) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/DebanjanTest/leetcode-Prac/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DebanjanTest/leetcode-Prac/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/DebanjanTest/leetcode-Prac/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/DebanjanTest/leetcode-Prac/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -130,4 +131,12 @@
 |  |
 | ------- |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/DebanjanTest/leetcode-Prac/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+## Union-Find
+|  |
+| ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/DebanjanTest/leetcode-Prac/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+## Sorting
+|  |
+| ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/DebanjanTest/leetcode-Prac/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
