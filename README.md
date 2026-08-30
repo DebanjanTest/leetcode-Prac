@@ -27,6 +27,7 @@
 | [1386-cinema-seat-allocation](https://github.com/DebanjanTest/leetcode-Prac/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/DebanjanTest/leetcode-Prac/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/DebanjanTest/leetcode-Prac/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/DebanjanTest/leetcode-Prac/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/DebanjanTest/leetcode-Prac/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/DebanjanTest/leetcode-Prac/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Array
@@ -37,6 +38,7 @@
 | [1563-stone-game-v](https://github.com/DebanjanTest/leetcode-Prac/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/DebanjanTest/leetcode-Prac/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/DebanjanTest/leetcode-Prac/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/DebanjanTest/leetcode-Prac/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/DebanjanTest/leetcode-Prac/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DebanjanTest/leetcode-Prac/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/DebanjanTest/leetcode-Prac/tree/master/3069-distribute-elements-into-two-arrays-i) |
