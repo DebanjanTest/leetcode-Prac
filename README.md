@@ -17,6 +17,7 @@
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/DebanjanTest/leetcode-Prac/tree/master/0115-distinct-subsequences) |
 | [1927-sum-game](https://github.com/DebanjanTest/leetcode-Prac/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/DebanjanTest/leetcode-Prac/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/DebanjanTest/leetcode-Prac/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -111,6 +112,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/DebanjanTest/leetcode-Prac/tree/master/0115-distinct-subsequences) |
 | [1563-stone-game-v](https://github.com/DebanjanTest/leetcode-Prac/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/DebanjanTest/leetcode-Prac/tree/master/1872-stone-game-viii) |
 ## Simulation
