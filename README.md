@@ -39,6 +39,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/DebanjanTest/leetcode-Prac/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/DebanjanTest/leetcode-Prac/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DebanjanTest/leetcode-Prac/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1386-cinema-seat-allocation](https://github.com/DebanjanTest/leetcode-Prac/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/DebanjanTest/leetcode-Prac/tree/master/1563-stone-game-v) |
@@ -150,6 +151,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/DebanjanTest/leetcode-Prac/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DebanjanTest/leetcode-Prac/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/DebanjanTest/leetcode-Prac/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Union-Find
