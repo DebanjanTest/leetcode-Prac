@@ -43,6 +43,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DebanjanTest/leetcode-Prac/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/DebanjanTest/leetcode-Prac/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DebanjanTest/leetcode-Prac/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0835-image-overlap](https://github.com/DebanjanTest/leetcode-Prac/tree/master/0835-image-overlap) |
 | [1386-cinema-seat-allocation](https://github.com/DebanjanTest/leetcode-Prac/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/DebanjanTest/leetcode-Prac/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/DebanjanTest/leetcode-Prac/tree/master/1872-stone-game-viii) |
@@ -185,6 +186,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/DebanjanTest/leetcode-Prac/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/DebanjanTest/leetcode-Prac/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Tree
 |  |
