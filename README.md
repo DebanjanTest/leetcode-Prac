@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/DebanjanTest/leetcode-Prac/tree/master/0231-power-of-two) |
+| [0836-rectangle-overlap](https://github.com/DebanjanTest/leetcode-Prac/tree/master/0836-rectangle-overlap) |
 | [1563-stone-game-v](https://github.com/DebanjanTest/leetcode-Prac/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/DebanjanTest/leetcode-Prac/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/DebanjanTest/leetcode-Prac/tree/master/1927-sum-game) |
@@ -200,4 +201,8 @@
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/DebanjanTest/leetcode-Prac/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/DebanjanTest/leetcode-Prac/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
