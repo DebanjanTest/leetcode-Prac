@@ -49,6 +49,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DebanjanTest/leetcode-Prac/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0835-image-overlap](https://github.com/DebanjanTest/leetcode-Prac/tree/master/0835-image-overlap) |
 | [1386-cinema-seat-allocation](https://github.com/DebanjanTest/leetcode-Prac/tree/master/1386-cinema-seat-allocation) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/DebanjanTest/leetcode-Prac/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/DebanjanTest/leetcode-Prac/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/DebanjanTest/leetcode-Prac/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/DebanjanTest/leetcode-Prac/tree/master/2029-stone-game-ix) |
@@ -72,6 +73,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/DebanjanTest/leetcode-Prac/tree/master/0001-two-sum) |
 | [1386-cinema-seat-allocation](https://github.com/DebanjanTest/leetcode-Prac/tree/master/1386-cinema-seat-allocation) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/DebanjanTest/leetcode-Prac/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DebanjanTest/leetcode-Prac/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/DebanjanTest/leetcode-Prac/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/DebanjanTest/leetcode-Prac/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -82,6 +84,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/DebanjanTest/leetcode-Prac/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/DebanjanTest/leetcode-Prac/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DebanjanTest/leetcode-Prac/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/DebanjanTest/leetcode-Prac/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -129,6 +132,7 @@
 | ------- |
 | [0115-distinct-subsequences](https://github.com/DebanjanTest/leetcode-Prac/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/DebanjanTest/leetcode-Prac/tree/master/0940-distinct-subsequences-ii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/DebanjanTest/leetcode-Prac/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/DebanjanTest/leetcode-Prac/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/DebanjanTest/leetcode-Prac/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/DebanjanTest/leetcode-Prac/tree/master/1872-stone-game-viii) |
@@ -142,6 +146,7 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DebanjanTest/leetcode-Prac/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/DebanjanTest/leetcode-Prac/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/DebanjanTest/leetcode-Prac/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/DebanjanTest/leetcode-Prac/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Combinatorics
