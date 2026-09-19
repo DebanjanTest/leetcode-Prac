@@ -6,6 +6,7 @@
 | ------- |
 | [0231-power-of-two](https://github.com/DebanjanTest/leetcode-Prac/tree/master/0231-power-of-two) |
 | [0836-rectangle-overlap](https://github.com/DebanjanTest/leetcode-Prac/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/DebanjanTest/leetcode-Prac/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1563-stone-game-v](https://github.com/DebanjanTest/leetcode-Prac/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/DebanjanTest/leetcode-Prac/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/DebanjanTest/leetcode-Prac/tree/master/1872-stone-game-viii) |
@@ -222,4 +223,5 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/DebanjanTest/leetcode-Prac/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/DebanjanTest/leetcode-Prac/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
